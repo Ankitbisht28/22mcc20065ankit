@@ -1,1 +1,1 @@
-print(This file 22mcc20065.py belongs to the 22mcc20065 folder")[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"This f
+This file 22mcc20065.py belongs to the 22mcc20065 folder
